@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://colab.research.google.com/github/KU-HIAI/dubbing/blob/main/srt_dubbing.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="60">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="90">
   </a>
 </p>
 
