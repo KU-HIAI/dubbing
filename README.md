@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><img src="images/runtime_menu.png" alt="런타임 메뉴" width="360"></td>
-    <td><img src="images/runtime_type.png" alt="런타임 유형 변경 창" width="360"></td>
+    <td><img src="images/runtime_version.png" alt="런타임 유형 변경 창" width="360"></td>
   </tr>
 </table>
 
