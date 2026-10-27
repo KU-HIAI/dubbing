@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://colab.research.google.com/github/KU-HIAI/dubbing/blob/main/srt_dubbing.ipynb">
-    <img src="https://img.shields.io/badge/Colab%EC%97%90%EC%84%9C%20%EB%8B%A4%EA%B5%AD%EC%96%B4%20%EB%8D%94%EB%B9%99%20%EC%8B%A4%EC%8A%B5%ED%95%98%EA%B8%B0-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab에서 다국어 더빙 실습하기" height="70">
+    <img src="https://img.shields.io/badge/Colab%EC%97%90%EC%84%9C%20%EB%8B%A4%EA%B5%AD%EC%96%B4%20%EB%8D%94%EB%B9%99%20%EC%8B%A4%EC%8A%B5%ED%95%98%EA%B8%B0-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab에서 다국어 더빙 실습하기" width="100%">
   </a>
 </p>
 
