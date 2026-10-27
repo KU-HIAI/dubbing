@@ -18,6 +18,17 @@
 | 하드웨어 가속기 | **T4 GPU** (필수) |
 | 런타임 버전 | 기본값 그대로 — 실행이 안 되면 **2026.07** 로 변경 (선택) |
 
+<table>
+  <tr>
+    <td align="center"><b>① [런타임 → 런타임 유형 변경]</b></td>
+    <td align="center"><b>② T4 GPU 선택 → [저장]</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/runtime_menu.png" alt="런타임 메뉴" width="360"></td>
+    <td><img src="images/runtime_type.png" alt="런타임 유형 변경 창" width="360"></td>
+  </tr>
+</table>
+
 ## 사용 방법
 1. 위 버튼으로 노트북을 열고 **[파일 → 드라이브에 사본 저장]**
 2. **[런타임 → 런타임 유형 변경]** 에서 **T4 GPU** 선택 (위 '런타임 설정' 참고)
